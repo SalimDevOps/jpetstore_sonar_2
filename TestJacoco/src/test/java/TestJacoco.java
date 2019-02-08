@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public  class testJacoco {
+public  class TestJacoco {
 	
 	// Instanciation de WebDriver
 	WebDriver driver = new ChromeDriver();
